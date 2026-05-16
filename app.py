@@ -102,7 +102,7 @@ data = {
 # ── TÍTULO ─────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div style="background:#0052FF;padding:18px 28px;border-radius:10px;margin-bottom:24px;">
-  <div style="color:white;font-size:26px;font-weight:900;letter-spacing:2px;">CDP — ESTADO DE RESULTADOS</div>
+  <div style="color:white;font-size:26px;font-weight:900;letter-spacing:2px;">ESTADO DE RESULTADOS - DASHBOARD</div>
   <div style="color:#D0E8FF;font-size:13px;font-weight:600;">Presupuesto 2026 · 2027 · 2028 vs Ejecutado 2025</div>
 </div>
 """, unsafe_allow_html=True)
