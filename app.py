@@ -6,7 +6,7 @@ FILE_ID = st.secrets["FILE_ID"]
 RUTA    = f"https://docs.google.com/spreadsheets/d/{FILE_ID}/export?format=xlsx"
 HOJA    = "P&L-Presupuesto_2026-2028"
 
-st.set_page_config(page_title="CDP – Estado de Resultados", layout="wide")
+st.set_page_config(page_title="ESTADO DE RESULTADO - DASHBOARD", layout="wide")
 
 st.markdown("""
 <style>
